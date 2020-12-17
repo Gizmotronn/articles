@@ -13,7 +13,7 @@ sections:
       Developer at Signal Kinetics as well as the UI/UX designer for We Speak
       Cyber
     actions:
-      - title: See all items
+      - title: My
         url: /store
         arrow: true
         style: primary
