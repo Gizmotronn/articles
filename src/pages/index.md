@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/Amazing_Stars-Universe_space_HD_Desktop_Wallpaper_1280x800.jpg
+    background_image: images/wp1851436.jpg
     background_image_opacity: 80
     content: >
       # LArbuckle 
