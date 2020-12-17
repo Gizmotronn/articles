@@ -6,10 +6,12 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 80
-    content: |
+    content: >
       # LArbuckle 
-      Software Developer. UI/UX for WeSpeakCyber.com. CTO for Signal Kinetics. 
-      Footballer for Willetton Football Club | #LA12 Sports Branding
+
+      I'm a developer and designer currently working as a CTO & Full Stack
+      Developer at Signal Kinetics as well as the UI/UX designer for We Speak
+      Cyber
     actions:
       - title: See all items
         url: /store
