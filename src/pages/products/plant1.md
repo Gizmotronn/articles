@@ -1,6 +1,6 @@
 ---
 id: '1'
-price: '49.40'
+price: ''
 title: Rainmeter Suite
 description: Customizing your windows desktop
 default_thumbnail_image: images/plant1.jpg
