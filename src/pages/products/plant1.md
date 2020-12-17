@@ -1,6 +1,6 @@
 ---
 id: '1'
-price: '0'
+price: ''
 title: ''
 description: Customizing your windows desktop
 default_thumbnail_image: images/plant1-lg.jpg
