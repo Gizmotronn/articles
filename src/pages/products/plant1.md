@@ -3,7 +3,7 @@ id: '1'
 price: '0'
 title: Rainmeter Suite
 description: Customizing your windows desktop
-default_thumbnail_image: images/plant1.jpg
+default_thumbnail_image: images/office.PNG
 default_original_image: images/plant1-lg.jpg
 featured: true
 order: 1
